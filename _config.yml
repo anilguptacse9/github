@@ -13,3 +13,5 @@ baseurl: /github
 git_repo: https://github.com/michael/github
 exclude:
   - lib/gh-board
+
+theme: jekyll-theme-cayman
